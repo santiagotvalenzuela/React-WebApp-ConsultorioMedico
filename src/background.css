@@ -1,0 +1,6 @@
+:root {
+    background-image: "images/medical-4510408.png";
+    height: 500px; /* You must set a specified height */
+    background-repeat: repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }

@@ -1,0 +1,13 @@
+.NavInt {
+    background: linear-gradient(90deg, rgb(0, 152, 212) 0%, rgb(0, 197, 247) 100%);
+    background-color:linear-gradient(90deg, rgb(0, 152, 212) 0%, rgb(0, 197, 247) 100%);
+    height:auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    width: auto;
+  }

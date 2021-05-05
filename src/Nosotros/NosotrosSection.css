@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    font-family: Helvetica, Geneva, Arial,   
+}
+
+h2{
+    text-align:left;
+    text-indent: 40px;
+    font-family: Helvetica, Geneva, Arial;
+    color: black;
+    font-size:25px;
+}
+p{
+    text-align:left;
+    text-indent: 40px;
+    color: black;
+    font-family: Helvetica, Geneva, Arial;
+    font-size:20px;
+}
